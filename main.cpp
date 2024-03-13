@@ -1,5 +1,5 @@
 #include <iostream>
-#include "workshop3.h"
+#include "workshop.h"
 
 int main(){
     double num = 10.11;
